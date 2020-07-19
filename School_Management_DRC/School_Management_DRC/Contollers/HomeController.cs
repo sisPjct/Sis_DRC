@@ -12,5 +12,12 @@ namespace School_Management_DRC.Contollers
         {
             return View();
         }
+
+        public IActionResult Aboutus()
+        {
+            return View();
+        }
+
+
     }
 }
